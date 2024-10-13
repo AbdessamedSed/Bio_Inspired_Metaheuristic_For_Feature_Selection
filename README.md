@@ -1,4 +1,4 @@
-# Bio-Inspired Metaheuristic for Feature Selection
+# Bio-Inspired Metaheuristics for Feature Selection
 Implementation of Particle Swarm Optimization (PSO) for efficient feature selection in machine learning
 
 This repository implements various bio-inspired metaheuristic algorithms for feature selection, including **Particle Swarm Optimization (PSO)**, **Genetic Algorithms (GA)**, and **Principal Component Analysis (PCA)**. (PCA is not bio-inspired) 
